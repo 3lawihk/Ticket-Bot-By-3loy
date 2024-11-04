@@ -1,6 +1,24 @@
-1) Edit the .env folder if you are using visual studio, if you are using replit add a secret name as token and the iinput value of your token in the value space.
+1) Make a .env file on visual studio code, if you are using replit add a secret name as token and the input value of your token in the value space (replace the variable with replit secret's variable) .
 2) Open folder in cmd/terminal or in visual studio
 
-Then:
+Then type in shell/cmd: 
+Notice: (before this step please check you have the right format for your token if you are not sure use AI like chatgpt/blackbox.ai/replit's buit in AI)
 ▶▷ npm install
 ▶▷ node index.js
+
+
+
+Join https://discord.gg/3li For Support
+
+------------------------------------------------------------------------------
+
+1) قم بإنشاء ملف .env على كود Visual Studio، إذا كنت تستخدم replit، أضف اسمًا سريًا كرمز وقيمة إدخال الرمز الخاص بك في مساحة القيمة (استبدل المتغير بمتغير replit secret).
+2) افتح المجلد في cmd/terminal أو في Visual Studio
+
+ثم اكتب في shell/cmd:
+
+Notice: (قبل هذه الخطوة، يرجى التحقق من أن لديك التنسيق الصحيح للرمز الخاص بك إذا لم تكن متأكدًا، استخدم AI مثل chatgpt/blackbox.ai/replit's buit in AI)
+▶▷ npm install
+▶▷ node index.js
+
+انضم إلى https://discord.gg/3li للحصول على الدعم
