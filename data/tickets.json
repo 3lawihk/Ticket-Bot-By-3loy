@@ -1,0 +1,86 @@
+{
+    "1729598545650": {
+        "id": "1729598545650",
+        "logs_channel": "1261383099095449723",
+        "style_color": {
+            "hex": 5198940,
+            "style": "2"
+        },
+        "category": "1261383099095449721",
+        "description": "ticket by 3loy",
+        "title": "3loy",
+        "button_name_1": "Test Button 3loy",
+        "support_role_1": "1262499562900422818",
+        "custom_id_1": "ticket_3loy_1262499562900422818_1261383099095449721_1261383099095449723_Test Button 3loy_1"
+    },
+    "1729608334622": {
+        "id": "1729608334622",
+        "logs_channel": "1262499450535022682",
+        "style_color": {
+            "hex": 5198940,
+            "style": "2"
+        },
+        "category": "1261383099095449721",
+        "description": "fbddbdd",
+        "title": "fbg",
+        "button_name_1": "fwfwfr3r",
+        "support_role_1": "1262499562900422818",
+        "custom_id_1": "ticket_fbg_1262499562900422818_1261383099095449721_1262499450535022682_fwfwfr3r_1"
+    },
+    "1730679431861": {
+        "id": "1730679431861",
+        "logs_channel": "1302757454114984027",
+        "style_color": {
+            "hex": 4437377,
+            "style": "3"
+        },
+        "category": "1261383099095449721",
+        "description": "للشراء والاستفسارات افتح تكت",
+        "title": "**TesT Ticket <:ticket:1302756938261725185> **",
+        "button_name_1": "<:ticket:1302756938261725185>  Open Ticket",
+        "support_role_1": "1289431942399397959",
+        "custom_id_1": "ticket_**TesT-Ticket-<:ticket:1302756938261725185>-**_1289431942399397959_1261383099095449721_1302757454114984027_<:ticket:1302756938261725185>  Open Ticket_1"
+    },
+    "1730680644968": {
+        "id": "1730680644968",
+        "logs_channel": "1302757454114984027",
+        "style_color": {
+            "hex": 4437377,
+            "style": "3"
+        },
+        "category": "1261383099095449721",
+        "description": "**للشراء والاستفسارات افتح تكت**",
+        "title": "**TesT Ticket** <:wrench:1291169817235034127>",
+        "button_name_1": "**Open Ticket**",
+        "support_role_1": "1289431942399397959",
+        "custom_id_1": "ticket_**TesT-Ticket**-<:wrench:1291169817235034127>_1289431942399397959_1261383099095449721_1302757454114984027_**Open Ticket**_1"
+    },
+    "1730680799610": {
+        "id": "1730680799610",
+        "logs_channel": "1302757454114984027",
+        "style_color": {
+            "hex": 4437377,
+            "style": "3"
+        },
+        "category": "1261383099095449721",
+        "description": "**للشراء والاستفسارات افتح تكت**",
+        "title": "**TesT Ticket** <:wrench:1291169817235034127>",
+        "button_name_1": "Open Ticket",
+        "support_role_1": "1289431942399397959",
+        "custom_id_1": "ticket_**TesT-Ticket**-<:wrench:1291169817235034127>_1289431942399397959_1261383099095449721_1302757454114984027_Open Ticket_1"
+    },
+    "1730736266372": {
+        "id": "1730736266372",
+        "logs_channel": "1302757454114984027",
+        "style_color": {
+            "hex": 5793266,
+            "style": "1"
+        },
+        "category": "1261383099095449721",
+        "description": "** **                                                                                                                                                                                                                                                                                                                                                                                          **Test For Blue Store Client**",
+        "title": "Blue Store Tickets",
+        "button_name_1": "Police",
+        "support_role_1": "1287204616764657757",
+        "custom_id_1": "ticket_Blue-Store-Tickets_1287204616764657757_1261383099095449721_1302757454114984027_Police_1"
+    }
+}

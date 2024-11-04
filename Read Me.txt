@@ -1,0 +1,6 @@
+1) Edit the .env folder if you are using visual studio, if you are using replit add a secret name as token and the iinput value of your token in the value space.
+2) Open folder in cmd/terminal or in visual studio
+
+Then:
+▶▷ npm install
+▶▷ node index.js
